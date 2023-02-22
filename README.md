@@ -10,5 +10,5 @@ Student Info
 =========================
 
 * Student Name: HOANG TRONG DAT 
-* Student ID: BI12-082
+* Student ID: BI12-08
 
